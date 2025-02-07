@@ -2,7 +2,7 @@
 
 
 
-The meeting notes and agenda can be analyzed using google's Notebook LM to help make summary notes and podcasts.&#x20;
+The meeting notes and agenda can be analyzed using google's Notebook LM to help make summary notes and "podcasts"/Audio summaries. Reach out to DRB if you'd like to know more.
 
 
 
