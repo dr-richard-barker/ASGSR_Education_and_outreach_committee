@@ -19,9 +19,3 @@ description: These documents are supposed to inspiration conversation and
 
 
 
-
-
-[Here is a link to the group spreadsheet](https://docs.google.com/spreadsheets/d/1cHpgEo6z2Azlrp3l3vO-1-YWkv4CX_0JvUpT5SZvg4A/edit?usp=sharing)
-
-{% embed url="https://docs.google.com/spreadsheets/d/1cHpgEo6z2Azlrp3l3vO-1-YWkv4CX_0JvUpT5SZvg4A/edit?usp=sharing" %}
-
